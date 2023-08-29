@@ -8,26 +8,32 @@
     <tr>
         <td>1</td>
         <td>encounter_id</td>
+        <td>Shows which row the data is in</td>
     </tr>
     <tr>
         <td>2</td>
         <td>patient_nbr</td>
+        <td>Hospital patient number</td>
     </tr>
     <tr>
         <td>3</td>
         <td>race</td>
+        <td>Patient's race</td>
     </tr>
     <tr>
         <td>4</td>
         <td>gender</td>
+        <td>Patient's gender</td>
     </tr>
     <tr>
         <td>5</td>
         <td>age</td>
+        <td>Patient's age</td>
     </tr>
     <tr>
         <td>6</td>
         <td>weight</td>
+        <td>Patient's weight</td>
     </tr>
     <tr>
         <td>7</td>
