@@ -248,7 +248,7 @@
     <tr>
         <td>49</td>
         <td>diabetesMed</td>
-        <td>Shows if the patient uses diabetes meds or not</td>
+        <td>Shows if the patient was prescribed diabetes meds or not after their stay</td>
     </tr>
     <tr>
         <td>50</td>
